@@ -1,0 +1,5 @@
+D:\Cursoemvideo\ConsultaCep\ConsultaCep\obj\Debug\net8.0\ConsultaCep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursoemvideo\ConsultaCep\ConsultaCep\obj\Debug\net8.0\ConsultaCep.AssemblyInfoInputs.cache
+D:\Cursoemvideo\ConsultaCep\ConsultaCep\obj\Debug\net8.0\ConsultaCep.AssemblyInfo.cs
+D:\Cursoemvideo\ConsultaCep\ConsultaCep\obj\Debug\net8.0\ConsultaCep.csproj.CoreCompileInputs.cache
+D:\Cursoemvideo\ConsultaCep\ConsultaCep\obj\Debug\net8.0\ConsultaCep.sourcelink.json

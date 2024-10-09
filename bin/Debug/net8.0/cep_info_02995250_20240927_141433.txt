@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>02995-250</cep>
+  <logradouro>Rua Jair da Rosa Pinto</logradouro>
+  <complemento></complemento>
+  <unidade></unidade>
+  <bairro>Parque Nações Unidas</bairro>
+  <localidade>São Paulo</localidade>
+  <uf>SP</uf>
+  <estado>São Paulo</estado>
+  <regiao>Sudeste</regiao>
+  <ibge>3550308</ibge>
+  <gia>1004</gia>
+  <ddd>11</ddd>
+  <siafi>7107</siafi>
+</xmlcep>

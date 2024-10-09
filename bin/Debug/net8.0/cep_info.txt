@@ -1,0 +1,44 @@
+{
+  "cep": "02995-250",
+  "logradouro": "Rua Jair da Rosa Pinto",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Parque Nações Unidas",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}{
+  "cep": "02995-250",
+  "logradouro": "Rua Jair da Rosa Pinto",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Parque Nações Unidas",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}
+{
+  "cep": "02995-000",
+  "logradouro": "Rua Friedrich Von Voith",
+  "complemento": "",
+  "unidade": "",
+  "bairro": "Jardim São João (Jaraguá)",
+  "localidade": "São Paulo",
+  "uf": "SP",
+  "estado": "São Paulo",
+  "regiao": "Sudeste",
+  "ibge": "3550308",
+  "gia": "1004",
+  "ddd": "11",
+  "siafi": "7107"
+}

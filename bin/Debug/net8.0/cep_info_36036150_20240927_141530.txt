@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>36036-150</cep>
+  <logradouro>Rua Padre Frederico</logradouro>
+  <complemento></complemento>
+  <unidade></unidade>
+  <bairro>Santa Catarina</bairro>
+  <localidade>Juiz de Fora</localidade>
+  <uf>MG</uf>
+  <estado>Minas Gerais</estado>
+  <regiao>Sudeste</regiao>
+  <ibge>3136702</ibge>
+  <gia></gia>
+  <ddd>32</ddd>
+  <siafi>4733</siafi>
+</xmlcep>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmlcep>
+  <cep>87680-000</cep>
+  <logradouro></logradouro>
+  <complemento></complemento>
+  <unidade></unidade>
+  <bairro></bairro>
+  <localidade>Paranapoema</localidade>
+  <uf>PR</uf>
+  <estado>Paraná</estado>
+  <regiao>Sul</regiao>
+  <ibge>4118303</ibge>
+  <gia></gia>
+  <ddd>44</ddd>
+  <siafi>7747</siafi>
+</xmlcep>
